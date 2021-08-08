@@ -20,7 +20,7 @@ title                    : "graph_paper"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "EUNJEONG MUN"
-description              : "An amazing website."
+description              : "기록용 블로그입니다."
 url                      : "https://EUNJEONGMUN.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
