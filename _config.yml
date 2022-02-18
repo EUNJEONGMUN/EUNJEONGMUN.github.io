@@ -106,9 +106,9 @@ author:
   location: "South Korea"
   email: graphpaper07@gamil.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "graphpaper07@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "graphpaper07@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://EUNJEONGMUN.github.io"
